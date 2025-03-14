@@ -116,6 +116,7 @@ let idade: number = 25;
 let ativo: boolean = true;
 ```
 
+
 ### b) Funções Tipadas
 ```ts
 function soma(a: number, b: number): number {
