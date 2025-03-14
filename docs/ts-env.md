@@ -1,4 +1,4 @@
-# Roadmap TypeScript para Iniciantes
+# Requisitos - TypeScript
 
 ## 1. O que é TypeScript?
 TypeScript é um superconjunto do JavaScript que adiciona tipagem estática ao código. Isso ajuda a evitar erros antes mesmo da execução e melhora a manutenção do código.
