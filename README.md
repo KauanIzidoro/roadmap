@@ -12,8 +12,8 @@ Roadmap com os principais temas acerca do desenvolvimento de aplicações `Pytho
 - [Python](docs/python-env.md)
 - [TypeScript](docs/ts-env.md)
 
-> Conceitos básicos
-- [Instalação de bibliotecas]()
+<!-- > Conceitos básicos
+- [Instalação de bibliotecas]() -->
 
 > Frontend
 - [Introdução](docs/intro.md)
