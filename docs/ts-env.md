@@ -1,6 +1,6 @@
-# Requisitos - TypeScript
+# 🔧 Requisitos - TypeScript
 
-## 1. O que é TypeScript?
+## O que é TypeScript?
 TypeScript é um superconjunto do JavaScript que adiciona tipagem estática ao código. Isso ajuda a evitar erros antes mesmo da execução e melhora a manutenção do código.
 
 ### Diferenciais do TypeScript:
@@ -11,7 +11,7 @@ TypeScript é um superconjunto do JavaScript que adiciona tipagem estática ao c
 
 ---
 
-## 2. Instalando e Configurando TypeScript
+## Instalando e Configurando TypeScript
 
 ### a) Instalando o Node.js
 O TypeScript depende do Node.js para ser executado. Instale o [NodeJS](https://nodejs.org/pt)
@@ -36,7 +36,7 @@ Se aparecer um número de versão, o TypeScript está instalado corretamente.
 
 ---
 
-## 3. Criando um Projeto TypeScript
+## Criando um Projeto TypeScript
 
 ### a) Criando a pasta do projeto
 No **CMD**, crie uma pasta para seu projeto e entre nela:
@@ -72,7 +72,7 @@ Se tudo estiver correto, a mensagem "Hello, TypeScript!" aparecerá no terminal.
 
 ---
 
-## 4. Comandos Essenciais
+## Comandos Essenciais
 
 ### a) Compilar todos os arquivos TypeScript do projeto
 No terminal do **CMD** ou **VSCode**, execute:
@@ -107,7 +107,7 @@ Isso é útil para bibliotecas como Express, React, etc.
 
 ---
 
-## 5. Conceitos Importantes do TypeScript
+## Conceitos Importantes do TypeScript
 
 ### a) Tipos Básicos
 ```ts
@@ -151,7 +151,7 @@ class Cachorro extends Animal {
 
 ---
 
-## 6. Como rodar TypeScript no Navegador
+## Como rodar TypeScript no Navegador
 O TypeScript não é executado diretamente no navegador. Ele deve ser convertido para JavaScript antes. Para isso:
 
 1. Compile o arquivo TypeScript:
